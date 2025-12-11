@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/echooymxq/rmq/pkg/cli/broker"
-	"github.com/echooymxq/rmq/pkg/cli/group"
-	"github.com/echooymxq/rmq/pkg/cli/message"
-	"github.com/echooymxq/rmq/pkg/cli/namesrv"
-	"github.com/echooymxq/rmq/pkg/cli/topic"
-	"github.com/echooymxq/rmq/pkg/config"
+	"github.com/alexzhc/rmq/pkg/cli/broker"
+	"github.com/alexzhc/rmq/pkg/cli/group"
+	"github.com/alexzhc/rmq/pkg/cli/message"
+	"github.com/alexzhc/rmq/pkg/cli/namesrv"
+	"github.com/alexzhc/rmq/pkg/cli/topic"
+	"github.com/alexzhc/rmq/pkg/config"
 	"github.com/spf13/cobra"
 	"os"
 )

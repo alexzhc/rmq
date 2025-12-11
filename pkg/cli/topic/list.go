@@ -3,8 +3,8 @@ package topic
 import (
 	"context"
 	"fmt"
-	"github.com/echooymxq/rmq/pkg/config"
-	"github.com/echooymxq/rmq/pkg/rocketmq"
+	"github.com/alexzhc/rmq/pkg/config"
+	"github.com/alexzhc/rmq/pkg/rocketmq"
 	"github.com/olekukonko/tablewriter"
 	"github.com/spf13/cobra"
 	"os"

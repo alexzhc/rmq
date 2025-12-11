@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/apache/rocketmq-client-go/v2/admin"
-	"github.com/echooymxq/rmq/pkg/config"
-	"github.com/echooymxq/rmq/pkg/rocketmq"
+	"github.com/alexzhc/rmq/pkg/config"
+	"github.com/alexzhc/rmq/pkg/rocketmq"
 	"github.com/spf13/cobra"
 )
 

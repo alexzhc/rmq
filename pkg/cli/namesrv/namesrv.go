@@ -1,7 +1,7 @@
 package namesrv
 
 import (
-	"github.com/echooymxq/rmq/pkg/config"
+	"github.com/alexzhc/rmq/pkg/config"
 	"github.com/spf13/cobra"
 )
 
